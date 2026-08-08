@@ -1,0 +1,6 @@
+{
+  "name": "MailMind AI",
+  "description": "Intelligent AI-powered email assistant for analysis, task extraction, spam detection, smart replies, and inbox insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
